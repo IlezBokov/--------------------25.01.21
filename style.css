@@ -1,0 +1,178 @@
+*main {
+  margin: 0px;
+  padding: 0px;
+
+}
+.grid1{
+position: absolute;
+width: 150px;
+height: 150px;
+
+background: #FFFFFF;
+border: 2px solid #FF0000;
+box-sizing: border-box;
+left: 300px;
+top: 300px;
+border-radius: 0px;
+
+}
+.grid2{
+position: absolute;
+width: 150px;
+height: 150px;
+
+background: #FFFFFF;
+border: 2px solid #9E00FF;
+box-sizing: border-box;
+
+left: 500px;
+top: 500px;
+border-radius: 0px;
+
+}
+.grid3{
+position: absolute;
+width: 150px;
+height: 150px;
+
+background: #FFFFFF;
+border: 2px solid #1F9A00;
+box-sizing: border-box;
+
+left: 700px;
+top: 700px;
+border-radius: 0px;
+
+
+}
+.grid4 {
+position: absolute;
+width: 150px;
+height: 150px;
+
+background: #FF0000;
+
+ 
+top: 1100px;
+left:300px;
+
+}
+.grid5 {
+position: absolute;
+width: 150px;
+height: 150px;
+  
+background: #8F00FF;
+top: 1179px;
+left: 379px;
+}
+.grid6 {
+position: absolute;
+width: 150px;
+height: 150px;
+  
+background: #1F9A00;
+top: 1257px;
+left: 457px;
+}
+.grid7 {
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  
+  background: #FF0000;
+  
+   
+  top: 2100px;
+  left:300px;
+  
+  }
+  .grid8 {
+  position: absolute;
+  width: 150px;
+  height: 150px;
+    
+  background: #8F00FF;
+  top: 2179px;
+  left: 379px;
+  z-index: 1;
+  }
+  .grid9 {
+  position: absolute;
+  width: 150px;
+  height: 150px;
+    
+  background: #1F9A00;
+  top: 2257px;
+  left: 457px;
+  }
+  .grid10{
+    position: absolute;
+    width: 1200px;
+    height: 800px;
+    
+    background: #73DC7E;
+    top: 3100px;
+    left: 225px;
+  }
+  .grid11{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    
+    background: #FFFFFF;
+    top: 3180px;
+    left: 305px;
+  }
+  .grid12{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    
+    background: #FFFFFF;
+    top: 3619px;
+    left: 1145px;
+  }
+.box {
+    background: rgb(91, 218, 52);
+    width: 640px;
+    height: 50px;
+    color: white;
+    
+ }
+#one {
+    position: absolute;
+    top: -38px;
+    left: -50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 25px;
+    margin: -19px;
+  }
+.outer {
+  position: static;
+    width: 500px;
+    height: 250px;
+    overflow: scroll;
+    top: 4000px;
+    left: 500px;
+  }
+.body {
+  position: absolute;
+  width: 480px;
+    height: 259px;
+    background: white;
+    top: 4100px;
+    left: 520px;
+}
+.box1998{
+  position: absolute;
+width: 642px;
+height: 280px;
+
+border: 2px solid #7DCE3D;
+box-sizing: border-box;
+top: 4097px;
+left: 450px;
+}
